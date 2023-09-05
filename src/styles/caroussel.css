@@ -1,0 +1,15 @@
+
+
+.carousel-inner{
+    height: 100vh;
+}
+.carousel-item{
+    height: 100%;
+}
+.carousel-item img{
+    height:auto;
+    object-fit: cover;
+}
+
+
+

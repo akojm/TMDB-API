@@ -1,0 +1,13 @@
+ul{
+    margin: 0;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+a:hover{
+    color: rgba(255, 255, 255, 0.61);
+}

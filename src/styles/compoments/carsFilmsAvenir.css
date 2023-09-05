@@ -1,0 +1,12 @@
+.card{
+    width: 18rem;
+    height: 45rem;
+    overflow:auto;
+    
+}
+p{
+    font-size: 1em;
+    color: black;
+    text-align: justify;
+    
+}
